@@ -1,0 +1,6 @@
+3 ejemplos Software:
+
+1.. Sistemas operativos
+2.. Bios 
+3.. GUI
+4 .. Aplicaciones

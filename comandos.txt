@@ -1,0 +1,39 @@
+Comandos aplicados en orden descendente
+
+       git init
+  475  git add README.md
+  476  echo "# checkPoint20AgosEduardoIvanSanchezLopez" >> README.md
+  477  git add README.md
+  478  git commit -m "commit de prueba"
+  479  git branch -M main
+  480  git remote add origin https://github.com/yayo31/checkPoint20AgosEduardoIvanSanchezLopez.git
+  481  git push -u origin main
+  482  ls
+  483  touch main.js index.html
+  484  git add main.js index.html
+  485  git commit -m "agregando par doc"
+  486  git push origin main
+  487  git branch feature
+  488  git checkout feature
+  489  mkdir hardware software seguridadInformatica
+  490  ls
+  491  cd hardware
+  492  touch resumen.txt
+  493  cd ..
+  494  cd software
+  495  touch resumen.txt
+  496  cd ..
+  497  cd seguridadInformatica
+  498  touch resumen.txt
+       checkPoint20AgosEduardoIvanSanchezLopez
+  510  cd checkPoint20AgosEduardoIvanSanchezLopez
+  511  git push origin main
+  512  git status
+  513  git add .
+  514  git commit -m "commit en feature"
+  515  git push origin feature
+  516  git checkout main
+  517  mv main.js resumenHardware.txt
+  518  git status
+  519  mv index.html resumenSoftware.txt
+  520  touch comandos.txt
